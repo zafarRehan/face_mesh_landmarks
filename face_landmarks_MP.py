@@ -107,16 +107,17 @@ with mp_face_mesh.FaceMesh(
             # showing frame on window
             cv2.imshow('Result Face Mesh', image)
             
-            # on pressing esc key everything will quits
+            # on pressing esc key loop/video reading stops
             key =  cv2.waitKey(1) 
             if key == 27:
               break
             
+        # when video ends or esc key is presses everything stops without loss
         cap.release()
         out.release()
         cv2.destroyAllWindows()
        
-    # if something unexpected happens everything quits
+    # if something unexpected happens everything stops without loss
     except:
         cap.release()
         out.release()
