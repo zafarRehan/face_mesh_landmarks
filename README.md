@@ -15,3 +15,5 @@ The code is well-commented so all the inner details can be found in comments
 
 <h3>Output Video</h3>
 <a href="https://drive.google.com/file/d/1vnYodDGbuvfJbauj41aEfubLoCDUaXh_/view?usp=sharing"><img src="/screen.png" width=500></a>
+
+<h4>Video By: <a href="https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"> Mrwhosetheboss</a> </h4>
