@@ -10,8 +10,8 @@ Head to the code (<a href="/face_landmarks_MP.py">face_landmarks_MP.py</a>) and 
 
 The code is well-commented so all the inner details can be found in comments
 
-<h3>Source Video Url :<h3> </br> https://www.youtube.com/watch?v=8CCtqtva6ok
-
+<h3>Source Video Url :<h3> https://www.youtube.com/watch?v=8CCtqtva6ok
+<br/><br/>
 
 <h3>Output Video</h3>
 <a href="https://drive.google.com/file/d/1vnYodDGbuvfJbauj41aEfubLoCDUaXh_/view?usp=sharing"><img src="/screen.png" width=500></a>
